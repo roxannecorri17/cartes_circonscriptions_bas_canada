@@ -18,7 +18,7 @@ Roxanne Corriveau
 
 ## Méthodologie
 
-Les cartes de 1792 et de 1829 ont été produites selon une méthode de reconstitution cartographique comparable dans QGIS. L'objectif était de traduire en données spatiales des découpages territoriaux historiques à partir de descriptions textuelles, de cartes historiques et de données géographiques existantes.
+Les cartes de 1792 et de 1829 ont été produites selon une méthode de reconstitution cartographique similaire dans QGIS. L'objectif était de traduire en données spatiales des découpages territoriaux historiques à partir de descriptions textuelles, de cartes historiques et de données géographiques existantes.
 
 Pour chacune des périodes, les unités territoriales disponibles dans les données géographiques ont d'abord été identifiées et sélectionnées en fonction de leur existence et de leur pertinence pour la période étudiée. Les données relatives aux cantons ont notamment été tirées de l’*Index des cantons* du Bureau de l’arpenteur général, tandis que les seigneuries ont été identifiées à partir des données cartographiques du Centre interuniversitaire d’études québécoises (CIEQ).
 
