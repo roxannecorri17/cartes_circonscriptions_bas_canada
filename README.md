@@ -1,4 +1,20 @@
-# cartes_circonscriptions_bas_canada
+# Cartes des circonscriptions du Bas-Canada
+
+Ce dépôt contient des cartes géospatiales des circonscriptions électorales, cantons et seigneuries du Bas-Canada, produites en fusionnant des données du gouvernement du Québec et du Centre interuniversitaire d'études québécoises (CIEQ).
+
+## Structure du dépôt
+
+- `raw_data/` — données brutes provenant des sources originales (voir SOURCES.md)
+- `scripts/` — code utilisé pour fusionner et traiter les données
+- `output/` — cartes finales produites (Circonscriptions_1792_couche, Couche_1820)
+
+## Sources et licences
+
+Voir [SOURCES.md](./SOURCES.md) pour le détail des sources de données, leurs licences respectives, et les autorisations obtenues.
+
+## Auteure
+
+Roxanne Corriveau
 
 ## Méthodologie
 
