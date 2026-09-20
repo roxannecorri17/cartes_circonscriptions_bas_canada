@@ -15,7 +15,6 @@
 - **Fichier :** `raw_data/mrnf_cantons_seigneuires.geojson`
 - **Site :** https://appli.foncier.gouv.qc.ca/gagq
 - **Licence :** Licence d'utilisation du Greffe de l'arpenteur général (consultation, téléchargement et reproduction autorisés pour usage normal ; revente interdite)
-- **Autorisation :** Le ministère a confirmé directement l'autorisation d'utiliser et de publier ces données dans le cadre de ce projet.
 - **Citation :**
   > Foncier Québec, Bureau de l'arpenteur général. "Index des cantons". Québec : Ministère de l'Énergie et des Ressources naturelles, 2006.
 
