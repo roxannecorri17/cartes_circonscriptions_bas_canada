@@ -6,7 +6,7 @@ Ce dépôt contient des cartes géospatiales des circonscriptions électorales, 
 
 - `raw_data/` — données brutes provenant des sources originales (voir SOURCES.md)
 - `scripts/` — code utilisé pour fusionner et traiter les données
-- `output/` — cartes finales produites (Circonscriptions_1792_couche, Couche_1820)
+- `output/` — cartes finales produites (circonscriptions_1792, circonscriptions_1829)
 
 ## Sources et licences
 

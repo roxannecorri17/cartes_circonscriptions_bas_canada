@@ -26,4 +26,4 @@
 
 ## Produits dérivés (dossier `output/`)
 
-Les fichiers `Circonscriptions_1792_couche` et `Couche_1829` sont le résultat d'une fusion de ces sources, réalisée par Roxanne Corriveau. Voir `scripts/` pour le code de traitement, et la section Méthodologie du README pour les détails
+Les fichiers `circonscriptions_1792` et `circonscriptions_1829` sont le résultat d'une fusion de ces sources, réalisée par Roxanne Corriveau. Voir `scripts/` pour le code de traitement, et la section Méthodologie du README pour les détails
