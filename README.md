@@ -32,4 +32,4 @@ La carte de 1792 a été reconstituée à partir des descriptions contenues dans
 
 ### Reconstitution de 1829
 
-La carte de 1829 a été reconstituée à partir des descriptions contenues dans l'*An Act to make a new and more convenient subdivision of the Province into Counties, for the purpose of effecting a more equal Representation thereof in the Assembly than heretofore*. Les descriptions des limites des comtés ont servi de référence principale pour déterminer les unités territoriales à regrouper.
+La carte de 1829 a été reconstituée à partir des descriptions contenues dans *An Act to make a new and more convenient subdivision of the Province into Counties, for the purpose of effecting a more equal Representation thereof in the Assembly than heretofore*. Les descriptions des limites des comtés ont servi de référence principale pour déterminer les unités territoriales à regrouper.
