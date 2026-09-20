@@ -26,4 +26,4 @@
 
 ## Produits dérivés (dossier `output/`)
 
-Les fichiers `circonscriptions_1792` et `circonscriptions_1829` sont le résultat d'une fusion de ces sources, réalisée par Roxanne Corriveau. Voir `scripts/` pour le code de traitement, et la section Méthodologie du README pour les détails
+Les fichiers `circonscriptions_1792` et `circonscriptions_1829` sont le résultat d'une fusion de ces sources, réalisée par Roxanne Corriveau. Voir la section Méthodologie du README pour les détails.
