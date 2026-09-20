@@ -17,13 +17,13 @@ Roxanne Corriveau
 
 ## Méthodologie
 
-Les cartes de 1792 et de 1829 ont été produites selon une méthode de reconstitution cartographique similaire pour les deux périodes, dans QGIS. L'objectif était de traduire en données spatiales des découpages territoriaux historiques à partir de descriptions textuelles, de cartes historiques et de données géographiques existantes.
+Les cartes de 1792 et de 1829 ont été produites selon une méthode de reconstitution cartographique similaire pour les deux périodes, dans QGIS. L'objectif était de traduire en données spatiales des découpages territoriaux historiques à partir de descriptions textuelles et de données géographiques existantes.
 
-Pour chacune des périodes, les unités territoriales disponibles dans les données géographiques ont d'abord été identifiées et sélectionnées en fonction de leur existence et de leur pertinence pour la période étudiée. Les données relatives aux cantons ont notamment été tirées de l'*Index des cantons* du Bureau de l'arpenteur général, tandis que les seigneuries ont été identifiées à partir des données cartographiques du Centre interuniversitaire d'études québécoises (CIEQ).
+Pour chacune des périodes, les unités territoriales disponibles dans les données géographiques ont d'abord été identifiées pour la période étudiée. Les données relatives aux cantons ont notamment filtrées grâce à l'*Index des cantons* du Bureau de l'arpenteur général, tandis que les seigneuries ont été identifiées à partir des données cartographiques du Centre interuniversitaire d'études québécoises (CIEQ). 
 
 Les limites des circonscriptions ont ensuite été reconstituées à partir des descriptions territoriales contenues dans les textes législatifs correspondant à chacune des périodes étudiées. Ces descriptions ont été mises en relation avec les limites des cantons et des seigneuries disponibles dans les données géographiques. Une représentation cartographique historique du découpage a également été utilisée comme document de référence afin de contrôler l'interprétation spatiale des descriptions textuelles.
 
-Dans QGIS, les unités territoriales correspondant aux descriptions des circonscriptions ont été sélectionnées puis fusionnées afin de créer de nouvelles entités spatiales représentant les circonscriptions reconstituées. Les nouvelles couches ont ensuite été vérifiées à partir des sources cartographiques et textuelles disponibles et exportées dans des formats permettant leur utilisation dans des analyses SIG ultérieures.
+Dans QGIS, les unités territoriales correspondant aux descriptions des circonscriptions ont été sélectionnées puis fusionnées afin de créer de nouvelles entités spatiales représentant les circonscriptions reconstituées. Concrètement, les unités territoriales correspondant à une même circonscription ont été sélectionnées manuellement dans QGIS, puis combinées à l'aide de la fonction *Fusionner les entités sélectionnées* (Merge Selected Features), qui combine plusieurs entités sélectionnées en une seule géométrie au sein de la même couche. Les nouvelles couches ont ensuite été vérifiées à partir des sources cartographiques et textuelles disponibles et exportées dans des formats permettant leur utilisation dans des analyses SIG ultérieures.
 
 ### Reconstitution de 1792
 
